@@ -1,71 +1,62 @@
 <h1 align="center">Hi 👋, I'm Aditya Jawle</h1>
-<h3 align="center">A passionate Full-Stack Developer from India | Backend & Frontend Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Java, Spring Boot & React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityajawle&label=Profile%20views&color=0e75b6&style=flat" alt="adityajawle" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityajawle" alt="adityajawle" />
+  <a href="https://aditya-jawle-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=appveyor" alt="Portfolio Badge"/>
   </a>
 </p>
 
 ---
 
 ### 💻 About Me
-I'm a backend-focused developer with expertise in **Java, Spring Boot, MySQL**, and a growing frontend stack including **React, HTML, CSS**. I enjoy building **scalable, efficient solutions** and contributing to projects that challenge my problem-solving skills.
+Backend-focused developer with expertise in **Java, Spring Boot, MySQL** and frontend skills in **React, HTML, CSS**. I build **scalable, efficient applications** and contribute to projects that challenge me.  
 
-> "Code is like humor. When you have to explain it, it’s bad." – Only real developers get this. 😉
-
----
-
-### 🌐 Portfolio
-Check out my work and projects here:  
-[🌟 My Portfolio](https://aditya-jawle-portfolio.vercel.app/)
+> "Code is like humor. When you have to explain it, it’s bad." – Real developers understand.
 
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ### 📂 Projects
-- **[Bank Management System (BMS)](https://github.com/adityajawle)** – Full-stack banking app with **Spring Boot, Spring Security, MySQL**, and auto-seeding admin features.
-- **[Quizify](https://github.com/adityajawle)** – RESTful quiz backend with **Spring Data JPA, MySQL, Postman** integration.
-- **[NovelNest](https://github.com/adityajawle)** – CRUD book management platform using **Spring Boot, Thymeleaf, HTML, CSS, MySQL**.
+- **[Bank Management System (BMS)](https://github.com/adityajawle)** – Full-stack banking app with Spring Boot, Spring Security, MySQL.  
+- **[Quizify](https://github.com/adityajawle)** – RESTful quiz backend using Spring Data JPA, MySQL.  
+- **[NovelNest](https://github.com/adityajawle)** – CRUD book platform using Spring Boot, Thymeleaf, HTML, CSS, MySQL.  
 
 ---
 
-### 📈 GitHub Stats & Streaks
+### 📊 GitHub Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityajawle&show_icons=true&locale=en&hide_border=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajawle&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityajawle&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajawle&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajawle&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajawle&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Total-Contributions-0ff?style=for-the-badge&logo=github" width="48%" alt="Contributions Badge"/>
 </p>
 
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/jawle-aditya/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jawle-aditya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/adityajawle" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://github.com/adityajawle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:jawleaditya8@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40" />
+  <a href="mailto:jawleaditya8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
