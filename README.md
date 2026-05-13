@@ -1,4 +1,4 @@
-<!-- Hero / Welcome Banner -->
+<!-- Hero / Welcome Section -->
 <h1 align="center">Hi, I'm Aditya Jawle 👋</h1>
 <h3 align="center">A Full-Stack Developer in the making | Java, Spring Boot & React Enthusiast</h3>
 
@@ -6,8 +6,8 @@
   <a href="https://aditya-jawle-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20Now-blue?style=for-the-badge&logo=appveyor" alt="Portfolio">
   </a>
-  <a href="https://raw.githubusercontent.com/AdityaJawle/AdityaJawle/main/Aditya_Jawle_resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobat" alt="Resume">
+  <a href="https://raw.githubusercontent.com/AdityaJawle/AdityaJawle/main/Aditya_Leaf_wingz.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobat" alt="Resume Download">
   </a>
 </p>
 
