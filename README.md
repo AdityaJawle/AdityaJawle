@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2b1f54,35:bd5160,70:e17b47,100:342452&text=Hi,%20I'm%20Aditya&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=A%20Web%20Developer%20in%20making&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="Hi, I'm Aditya - A Web Developer in making" />
 </p>
